@@ -6,5 +6,5 @@ All you need is to install Python (written in version 3.13), and then run the .b
 Windows only support
 # How it works
 >[!NOTE]
->The program opens the browser, waits 30 seconds to solve the captcha (yes, I was too lazy to do this), after scrolling the page to get all the data, it closes and after a >while writes everything into a .txt file and opens it
+>The program opens the browser, waits 30 seconds to solve the captcha (yes, I was too lazy to do this), after scrolling the page to get all the data, it closes and after a while writes everything into a .txt file and opens it
 # :)
